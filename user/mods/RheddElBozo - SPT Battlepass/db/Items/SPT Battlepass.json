@@ -1,0 +1,4020 @@
+{
+    "67fd89d05567aff486d5083a": {
+        "itemTplToClone": "657089638db3adca1009f4ca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ballistic_mask/item_equipment_facecover_ballistic_mask_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Atomic Defense CQCM ballistic mask",
+                "shortName": "CQCM",
+                "description": "Atomic Defense's CQCM ballistic mask provides protection against short-range weapons including pistols, shotguns and knives. This heavyweight reinforced mask covers the wearer's face completely. It features an inner lining and wraps slightly around the sides of the head for added protection. The mask also features five-point adjustable straps to ensure a comfortable and precise fit."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 75000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 100000,
+        "handbookPriceRoubles": 103097,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8ed16987d666dc9ac61c": {
+        "itemTplToClone": "657089638db3adca1009f4ca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ballistic_mask/item_equipment_facecover_ballistic_mask_arena_bp_02.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Atomic Defense CQCM ballistic mask",
+                "shortName": "CQCM",
+                "description": "Atomic Defense's CQCM ballistic mask provides protection against short-range weapons including pistols, shotguns and knives. This heavyweight reinforced mask covers the wearer's face completely. It features an inner lining and wraps slightly around the sides of the head for added protection. The mask also features five-point adjustable straps to ensure a comfortable and precise fit."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 75000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 100000,
+        "handbookPriceRoubles": 103097,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8ece241d10336042d4b9": {
+        "itemTplToClone": "657089638db3adca1009f4ca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ballistic_mask/item_equipment_facecover_ballistic_mask_arena_bp_03.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Atomic Defense CQCM ballistic mask",
+                "shortName": "CQCM",
+                "description": "Atomic Defense's CQCM ballistic mask provides protection against short-range weapons including pistols, shotguns and knives. This heavyweight reinforced mask covers the wearer's face completely. It features an inner lining and wraps slightly around the sides of the head for added protection. The mask also features five-point adjustable straps to ensure a comfortable and precise fit."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 75000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 100000,
+        "handbookPriceRoubles": 103097,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8ecc9183ad20bb523e7d": {
+        "itemTplToClone": "657089638db3adca1009f4ca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ballistic_mask/item_equipment_facecover_ballistic_mask_arena_bp_04.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Atomic Defense CQCM ballistic mask",
+                "shortName": "CQCM",
+                "description": "Atomic Defense's CQCM ballistic mask provides protection against short-range weapons including pistols, shotguns and knives. This heavyweight reinforced mask covers the wearer's face completely. It features an inner lining and wraps slightly around the sides of the head for added protection. The mask also features five-point adjustable straps to ensure a comfortable and precise fit."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 75000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 100000,
+        "handbookPriceRoubles": 103097,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8ec861773f3ce6e7de2e": {
+        "itemTplToClone": "657089638db3adca1009f4ca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ballistic_mask/item_equipment_facecover_ballistic_mask_arena_bp_05.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Atomic Defense CQCM ballistic mask",
+                "shortName": "CQCM",
+                "description": "Atomic Defense's CQCM ballistic mask provides protection against short-range weapons including pistols, shotguns and knives. This heavyweight reinforced mask covers the wearer's face completely. It features an inner lining and wraps slightly around the sides of the head for added protection. The mask also features five-point adjustable straps to ensure a comfortable and precise fit."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 75000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 100000,
+        "handbookPriceRoubles": 103097,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8ec664e36ab00141b370": {
+        "itemTplToClone": "657089638db3adca1009f4ca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ballistic_mask/item_equipment_facecover_ballistic_mask_arena_bp_06.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Atomic Defense CQCM ballistic mask",
+                "shortName": "CQCM",
+                "description": "Atomic Defense's CQCM ballistic mask provides protection against short-range weapons including pistols, shotguns and knives. This heavyweight reinforced mask covers the wearer's face completely. It features an inner lining and wraps slightly around the sides of the head for added protection. The mask also features five-point adjustable straps to ensure a comfortable and precise fit."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 75000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 100000,
+        "handbookPriceRoubles": 103097,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8ec1e542b3e3b8c44711": {
+        "itemTplToClone": "657089638db3adca1009f4ca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "ballistic_mask/item_equipment_facecover_ballistic_mask_arena_bp_07.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Atomic Defense CQCM ballistic mask",
+                "shortName": "CQCM",
+                "description": "Atomic Defense's CQCM ballistic mask provides protection against short-range weapons including pistols, shotguns and knives. This heavyweight reinforced mask covers the wearer's face completely. It features an inner lining and wraps slightly around the sides of the head for added protection. The mask also features five-point adjustable straps to ensure a comfortable and precise fit."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 75000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 3,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 100000,
+        "handbookPriceRoubles": 103097,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9042de33966ae01f6d0c": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9034b98d305f9ad4b734": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_02.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd90269d7183baa12a345c": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_03.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd90173083497931438010": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_04.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd900484a5ab104d95e97f": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_05.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8fe3cd88b807386fc5ce": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_06.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd8fd1e83506175a44dd5e": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_07.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9aaaaa1cd7d46ff38cc1": {
+        "itemTplToClone": "572b7f1624597762ae139822",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "balaclava/item_equipment_facecover_balaclava_arena_bp_07.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Balaclava",
+                "shortName": "Balaclava",
+                "description": "A definitive woolen balaclava is not only a head-warmer but soul-warmer too for anyone who is too modest for public heroic deeds."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd95571e811a7e4eeea518": {
+        "itemTplToClone": "5d6d2ef3a4b93618084f58bd",
+        "parentId": "5448e5724bdc2ddf718b4568",
+        "handbookParentId": "5b47574386f77428ca22b331",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "avaitor/item_equipment_glasses_aviator_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "RayBench Aviator glasses",
+                "shortName": "Aviator",
+                "description": "Legendary mercenary glasses around the world. Wear them if you want to be cool, like Vovan from the hood."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5455,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4000,
+        "handbookPriceRoubles": 4000,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd963c66b904fc4fe55316": {
+        "itemTplToClone": "5648a69d4bdc2ded0b8b457b",
+        "parentId": "5448e5284bdc2dcb718b4567",
+        "handbookParentId": "5b5f6f8786f77447ed563642",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "blackrock/item_equipment_rig_blackrock_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "BlackRock chest rig",
+                "shortName": "BlackRock",
+                "description": "A custom-made chest rig for wearing on top of body armor in urban operations. Sturdy and versatile, it features both MOLLE and ALICE attachment systems."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 42300,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 2,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 40700,
+        "handbookPriceRoubles": 40700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd97cacbba67881c88d6fc": {
+        "itemTplToClone": "5ab8f39486f7745cd93a1cca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "coldgear/item_equipment_facecover_coldgear_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Cold Fear infrared balaclava",
+                "shortName": "CF",
+                "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3500,
+        "handbookPriceRoubles": 3500,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9a9bdbc4d142684fcf76": {
+        "itemTplToClone": "5ab8f39486f7745cd93a1cca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "coldgear/item_equipment_facecover_coldgear_arena_bp_02.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Cold Fear infrared balaclava",
+                "shortName": "CF",
+                "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3500,
+        "handbookPriceRoubles": 3500,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9a957c70da76f87fa5c5": {
+        "itemTplToClone": "5ab8f39486f7745cd93a1cca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "coldgear/item_equipment_facecover_coldgear_arena_bp_03.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Cold Fear infrared balaclava",
+                "shortName": "CF",
+                "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3500,
+        "handbookPriceRoubles": 3500,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9a8944d90d78dedc8e3a": {
+        "itemTplToClone": "5ab8f39486f7745cd93a1cca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "coldgear/item_equipment_facecover_coldgear_arena_bp_04.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Cold Fear infrared balaclava",
+                "shortName": "CF",
+                "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3500,
+        "handbookPriceRoubles": 3500,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9a7038c98b76b3278d0b": {
+        "itemTplToClone": "5ab8f39486f7745cd93a1cca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "coldgear/item_equipment_facecover_coldgear_arena_bp_05.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Cold Fear infrared balaclava",
+                "shortName": "CF",
+                "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3500,
+        "handbookPriceRoubles": 3500,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9a690dbb3540dfb1cb45": {
+        "itemTplToClone": "5ab8f39486f7745cd93a1cca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "coldgear/item_equipment_facecover_coldgear_arena_bp_06.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Cold Fear infrared balaclava",
+                "shortName": "CF",
+                "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3500,
+        "handbookPriceRoubles": 3500,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9a66e374fdee6ac887f4": {
+        "itemTplToClone": "5ab8f39486f7745cd93a1cca",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "coldgear/item_equipment_facecover_coldgear_arena_bp_07.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Cold Fear infrared balaclava",
+                "shortName": "CF",
+                "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 4000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 3500,
+        "handbookPriceRoubles": 3500,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9d0af4730128f2fb384b": {
+        "itemTplToClone": "5c1a1cc52e221602b3136e3d",
+        "parentId": "5448e5724bdc2ddf718b4568",
+        "handbookParentId": "5b47574386f77428ca22b331",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "m_frame/item_equipment_glasses_m_frame_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Oakley SI M Frame safety glasses",
+                "shortName": "M Frame",
+                "description": "Ballistic glasses with impact-resistant polycarbonate lenses."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9dda8f0e8418c7929856": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "redflame/item_equipment_facecover_redflame_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Neoprene mask",
+                "shortName": "Mask",
+                "description": "Neoprene light mask for the face with a creative image of a fiery flame. With such a mask, you're not just cool, you're dangerous."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9ea9d662d6d315f006c3": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "redflame/item_equipment_facecover_redflame_arena_bp_02.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Neoprene mask",
+                "shortName": "Mask",
+                "description": "Neoprene light mask for the face with a creative image of a fiery flame. With such a mask, you're not just cool, you're dangerous."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9ea2d52b96af77cd20e2": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "redflame/item_equipment_facecover_redflame_arena_bp_03.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Neoprene mask",
+                "shortName": "Mask",
+                "description": "Neoprene light mask for the face with a creative image of a fiery flame. With such a mask, you're not just cool, you're dangerous."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9e96fd83cd8eebbba504": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "redflame/item_equipment_facecover_redflame_arena_bp_04.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Neoprene mask",
+                "shortName": "Mask",
+                "description": "Neoprene light mask for the face with a creative image of a fiery flame. With such a mask, you're not just cool, you're dangerous."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9e92609d6554686019be": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "redflame/item_equipment_facecover_redflame_arena_bp_05.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Neoprene mask",
+                "shortName": "Mask",
+                "description": "Neoprene light mask for the face with a creative image of a fiery flame. With such a mask, you're not just cool, you're dangerous."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9e8becc5dccab608f73f": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "redflame/item_equipment_facecover_redflame_arena_bp_06.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Neoprene mask",
+                "shortName": "Mask",
+                "description": "Neoprene light mask for the face with a creative image of a fiery flame. With such a mask, you're not just cool, you're dangerous."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fd9fe28e96aa1981e6fc38": {
+        "itemTplToClone": "5aa2b923e5b5b000137b7589",
+        "parentId": "5448e5724bdc2ddf718b4568",
+        "handbookParentId": "5b47574386f77428ca22b331",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "round_glasses/item_equipment_glasses_round_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Round frame sunglasses",
+                "shortName": "RGlasses",
+                "description": "Sunglasses with a round-shaped frame. Cool and stylish!"
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda12a9b169a1d0969d5cb": {
+        "itemTplToClone": "5aa2b923e5b5b000137b7589",
+        "parentId": "5448e5724bdc2ddf718b4568",
+        "handbookParentId": "5b47574386f77428ca22b331",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "sport_glasses/item_equipment_glasses_sport_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Dundukk sport sunglasses",
+                "shortName": "Dundukk",
+                "description": "Modern sunglasses, made in a sporty style. Great for a stylish shootout at the gas station."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda2f6b346f4286b4d0eb2": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda3ab5ff9996ae6760d69": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_02.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda3a1ddef42997a5b3439": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_03.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda3999cf6a700c0758ed3": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_04.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda38eab9c576d133a4ee2": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_05_gold.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda384bf34a78433e37a41": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_05_red.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda377bf9ad922e419dfd9": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_05_white.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda36ac4d1a293897d0364": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_balaclava/item_equipment_facecover_balaclavaskull_arena_bp_06.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost balaclava",
+                "shortName": "Ghost",
+                "description": "A tactical balaclava with a skull print. \"Bloody yanks! I thought they were the good guys!\""
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda4bcb09758839cd67b18": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_01.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda520f0d87efb3405e7a1": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_06_white.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda5154db21c9111244af7": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_06_red.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda506e6cebe0df4bd6f28": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_06_green.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda4f8155446ae0831bb00": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_05.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda4eeb021a5bd5c76c351": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_04.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda4e6f82febbe285b3196": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_03.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    },
+    "67fda4db8cbb8bbc8a9ba0bf": {
+        "itemTplToClone": "5b4326435acfc433000ed01d",
+        "parentId": "5a341c4686f77469e155819e",
+        "handbookParentId": "5b47574386f77428ca22b32f",
+        "overrideProperties": {
+            "Prefab": {
+                "path": "skull_half_mask/item_equipment_facecover_skull_half_mask_arena_bp_02.bundle",
+                "rcid": ""
+            }
+        },
+        "locales": {
+            "en": {
+                "name": "Ghost half-mask",
+                "shortName": "Ghost",
+                "description": "A half-mask with a skull print."
+            }
+        },
+        "clearClonedProps": false,
+        "addtoTraders": true,
+        "traderId": "RAGMAN",
+        "traderItems": [
+            {
+                "unlimitedCount": true,
+                "stackObjectsCount": 99
+            }
+        ],
+        "barterScheme": [
+            {
+                "count": 5000,
+                "_tpl": "ROUBLES"
+            }
+        ],
+        "loyallevelitems": 1,
+        "addtoInventorySlots": [],
+        "addtoModSlots": false,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "ModdableItemWhitelist": [],
+        "ModdableItemBlacklist": [],
+        "fleaPriceRoubles": 4700,
+        "handbookPriceRoubles": 4700,
+        "addtoBots": false,
+        "addtostaticlootcontainer": false,
+        "StaticLootContainers": [
+            {
+                "ContainerName": "LOOTCONTAINER_AIRDROP_WEAPON_CRATE",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_4X4",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X2",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_5X5",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WEAPON_BOX_6X3",
+                "Probability": 2000
+            },
+            {
+                "ContainerName": "LOOTCONTAINER_WOODEN_CRATE",
+                "Probability": 2000
+            }
+        ],
+        "masteries": false,
+        "masterySections": [
+            {
+                "Name": "M4",
+                "Templates": [
+                    "WEAP_M4_300BLK"
+                ]
+            }
+        ],
+        "addweaponpreset": false,
+        "weaponpresets": []
+    }
+}

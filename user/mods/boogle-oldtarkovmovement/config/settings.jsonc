@@ -1,0 +1,14 @@
+{
+	// Enables janky ass old animations from 2020 (breaks BTR and other things)
+	"NostalgiaMode": false,
+	// Having this on will make leaning much faster like it used to be
+	"QuickTilting": true,
+	// Does aiming reduce movement speed
+	"DoesAimingSlowYouDown": true,
+	// Determines if AI bots will use the old (mod) movement or not, turning this off will make them less insane.
+	"BotsUseOldMovement": true,
+	// Do bushes slow you down when running through them or not
+	"DoBushesSlowYouDown": false,
+	// Makes looking around much smoother, removes the "jittering" or "fidgeting"
+	"RemoveJitteryRotation": false
+}

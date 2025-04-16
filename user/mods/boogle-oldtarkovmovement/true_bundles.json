@@ -1,0 +1,20 @@
+{
+	"manifest": [
+		{
+			"key": "assets/content/characters/controllers/player_anim_controller.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/characters/animations/character_animations.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/characters/animations/simple_character_animations.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "assets/content/characters/animations/spirit_character_animations.bundle",
+			"dependencyKeys": []
+		}
+	]
+}

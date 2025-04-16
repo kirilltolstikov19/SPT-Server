@@ -1,0 +1,19 @@
+[2025-04-16 13:28:29] ==== Launcher Started ====
+[2025-04-16 13:28:29][Info] Using launcher config at: C:\Users\vik73\Downloads\EscapeFromTarkov_16.1.35392_3.11.1\EscapeFromTarkov\user\launcher\config.json
+[2025-04-16 13:28:29][Exception] The type initializer for 'SPT.Launcher.Helpers.LocalizationProvider' threw an exception.
+Stacktrace:
+   at SPT.Launcher.Helpers.LocalizationProvider.get_Instance()
+   at SPT.Launcher.CustomControls.TitleBar.!XamlIlPopulate(IServiceProvider, TitleBar)
+   at SPT.Launcher.CustomControls.TitleBar.!XamlIlPopulateTrampoline(TitleBar)
+   at SPT.Launcher.CustomControls.TitleBar.InitializeComponent()
+   at SPT.Launcher.CustomControls.TitleBar..ctor()
+   at SPT.Launcher.Views.MainWindow.!XamlIlPopulate(IServiceProvider, MainWindow)
+   at SPT.Launcher.Views.MainWindow.!XamlIlPopulateTrampoline(MainWindow)
+   at SPT.Launcher.Views.MainWindow.InitializeComponent()
+   at SPT.Launcher.Views.MainWindow..ctor()
+   at SPT.Launcher.App.OnFrameworkInitializationCompleted()
+   at Avalonia.AppBuilder.SetupUnsafe()
+   at Avalonia.AppBuilder.Setup()
+   at Avalonia.AppBuilder.SetupWithLifetime(IApplicationLifetime lifetime)
+   at Avalonia.ClassicDesktopStyleApplicationLifetimeExtensions.StartWithClassicDesktopLifetime(AppBuilder builder, String[] args, Action`1 lifetimeBuilder)
+   at SPT.Launcher.Program.Main(String[] args)

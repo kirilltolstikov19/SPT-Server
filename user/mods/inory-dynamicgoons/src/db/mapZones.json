@@ -1,0 +1,9 @@
+{
+  "factory4_day": ["BotZone"],
+  "factory4_night": ["BotZone"],
+  "tarkovstreets": ["ZoneCinema", "ZoneConcordiaParking"],
+  "laboratory": ["BotZoneFloor1", "BotZoneFloor2"],
+  "rezervbase": ["ZoneRailStrorage", "ZoneBarrack"],
+  "sandbox_high": ["ZoneSandbox"],
+  "interchange": ["ZonePowerStation", "ZoneCenterBot"]
+}
