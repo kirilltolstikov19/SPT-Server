@@ -142,7 +142,7 @@
     "TradersLvl4": false,
     "FIRTrade": false,
     "UnlockJaeger": false,
-    "UnlockRef": false
+    "UnlockRef": true
   },
   "Loot": {
     "Airdrops": {
@@ -502,7 +502,7 @@
     "EnableServices": true,
     "EnableRepair": false,
     "ClothesAnySide": true,
-    "ClothesLevelUnlock": false,
+    "ClothesLevelUnlock": true,
     "ClothesFree": false
   },
   "Quests": {
