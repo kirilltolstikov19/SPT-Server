@@ -1,7 +1,7 @@
 {
-    "ip": "127.0.0.1",
+    "ip": "85.209.9.88",
     "port": 6969,
-    "backendIp": "127.0.0.1",
+    "backendIp": "85.209.9.88",
     "backendPort": 6969,
     "webSocketPingDelayMs": 90000,
     "logRequests": true,
